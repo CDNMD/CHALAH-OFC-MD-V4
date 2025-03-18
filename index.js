@@ -92,65 +92,65 @@ conn.ev.on("connection.update", async (update) => {
     // Load and install plugins
     const plugins = [
         {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/weather.js",
+          'id': "weather.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/video%2Bdoument.js",
+          'id': "video+document.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/tiktoksearch.js",
+          'id': "tiktoksearch.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/tagall.js",
+          'id': "tagall.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/song2.js",
+          'id': "song2.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/song%2Bdocument.js",
+          'id': "song+document.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/setting.js",
+          'id': "setting.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/restart.js",
+          'id': "restart.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/ping.js",
+          'id': "ping.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/owner.js",
+          'id': "owner.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/news.js",
+          'id': "news.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/menu.js",
+          'id': "menu.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/hirunews.js",
+          'id': "hirunews.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/group.js",
+          'id': "group.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/boom.js",
+          'id': "boom.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/alive.js",
+          'id': "alive.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/aichat.js",
+          'id': "aichat.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/System.js",
+          'id': "System.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/Hack.js",
+          'id': "Hack.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/CHALAH73/plugins/refs/heads/main/Groupadd.js",
+          'id': "groupadd.js"
       }, {
           'url': "𝙇𝙄𝙉𝙆🔐",
           'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
@@ -201,10 +201,10 @@ let up = `* *Connecting CHALAH MD  Multidevice Whatsapp Bot ...💾*
 *│wa.me/94776938009*
 *╰┈───────────╴╴╴•⟢*
 
-> POWERD BY *වෙන කවුරුවත් නෙමෙ චලන අය්යම තමා හැදුවෙ*`;
+> POWERD BY *[" 𝐂𝐇𝐀𝐋𝐀𝐇 𝐅𝐀𝐌𝐈𝐋𝐘  🐾🦥💗👈"]*`;
 
 
-conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/WY2qBYz/SulaMd.jpg` }, caption: up })
+conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/j9Q6G0cc/SulaMd.jpg` }, caption: up })
 
 }
 })
