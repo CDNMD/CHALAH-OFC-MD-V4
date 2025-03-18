@@ -7,13 +7,13 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <br>
  
-<img src="https://i.ibb.co/WY2qBYz/SulaMd.jpg" height="300" width="100%">
+<img src="https://i.ibb.co/LDkGq0DT/SulaMd.jpg" height="300" width="100%">
 
 <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-𝐒𝐮𝐥𝐚 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Sulaksha Madara).
+CHALAH MD  Multidevice Whatsapp Bot Mack By (CHALANA INDUWARA).
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
