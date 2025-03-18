@@ -1,13 +1,13 @@
 <div align="center">
 
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=𝐒𝐔𝐋𝐀-𝐌𝐃" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=CHALAH-MD alt="Typing SVG" /></a>
 
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <br>
  
-<img src="https://i.ibb.co/LDkGq0DT/SulaMd.jpg" height="300" width="100%">
+<img src="https://i.ibb.co/LDkGq0DT/SulaMd.jpg" height="250" width="150%">
 
 <br>
 
@@ -19,10 +19,11 @@ CHALAH MD  Multidevice Whatsapp Bot Mack By (CHALANA INDUWARA).
 
 <br>
 
-![forks](https://img.shields.io/github/forks/sulakshamadara68/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/sulakshamadara68/SULA-MD?style=social)
+![forks](https://github.com/CDNMD/CHALAH-OFC-MD-V4/fork)            
+![stars](https://img.shields.io/github/stars/sulakshamadara68/SULA-MD?style=social)
 
 <p align="center">
-  <a href="https://github.com/sulakshamadara68/SULA-MD">
+  <a href="">
     <img src="https://img.shields.io/github/repo-size/sulaksha449/SULA-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
