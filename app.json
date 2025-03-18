@@ -1,0 +1,27 @@
+{
+  "name": "CHALAH_MD",
+  "description": "SULA-MD WhatsApp bot made by Chalana induwara",
+  "logo": "https://i.ibb.co/LDkGq0DT/SulaMd.jpg",
+  "keywords": ["bot / Sula"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },
+
+    
+    "MONGODB": {
+      "description": "Put the mongodb url here.",
+      "required": true
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
